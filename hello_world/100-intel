@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -S -masn=intel $CFILE -o $(echo $(echo $CFILE) | tr 'c' 's')
+gcc -S -masm=intel $CFILE -o $(echo $(echo $CFILE) | tr 'c' 's')
