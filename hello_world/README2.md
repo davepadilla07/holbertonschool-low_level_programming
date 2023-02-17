@@ -4,4 +4,5 @@
 # SCRIPT 3: Creating an executable file from a compiled file.
 # SCRIPT 4: Creating a program that prints a sentence using puts.
 # SCRIPT 5: Creating a program that prints a sentence using printf
-# SCRIPT 6: Creating a program that prints the size of each type. 
+# SCRIPT 6: Creating a program that prints the size of each type.
+# SCRIPT 7: Assembler (intel syntax): Passing though the assembler and changing the file as the output. 
