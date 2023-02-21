@@ -7,4 +7,5 @@
 # SCRIPT 6: Printing the ten first number using just putchar.
 # SCRIPT 7: Printing the alphabet in lowercase and in reverse.
 # SCRIPT 8: Printing the numbers of base 16 in lowercase.
-# SCRIPT 9: printing from 0 to 9 followed by a comma and a space. 
+# SCRIPT 9: printing from 0 to 9 followed by a comma and a space.
+# SCRIPT 10: Printing from 0 to 99 followed by a comma and a space where the combination doesnt repeat. 
