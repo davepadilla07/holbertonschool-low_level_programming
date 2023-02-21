@@ -2,7 +2,7 @@
 # SCRIPT 1: Assigning a random number and showing its last number.
 # SCRIPT 2: Printing the alphabet in lowercase.
 # SCRIPT 3: Printing the alphabet in lowercase and uppercase.
-# SCRIPT 4: .
+# SCRIPT 4: Printing the alphabet without e nor q.
 # SCRIPT 5: .
 # SCRIPT 6: .
 # SCRIPT 7: .
