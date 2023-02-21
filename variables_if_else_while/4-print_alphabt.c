@@ -13,7 +13,7 @@ int main(void)
 	for (lettr = 'a'; lettr <= 'z'; lettr++)
 	{
 
-		if (letter == 'e')
+		if (lettr == 'e')
 
 			;
 
