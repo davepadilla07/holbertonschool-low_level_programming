@@ -1,4 +1,4 @@
-returnType _putchar(arg)
+returnType _putchar(int arg)
 {
 	putchar(arg);
 }
