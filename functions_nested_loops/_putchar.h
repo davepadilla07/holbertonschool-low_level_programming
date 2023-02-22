@@ -1,5 +1,6 @@
-#include <stdio.h>
-returnType _putchar(int arg)
-{
-	putchar(arg);
-}
+#ifndef _putchar_h_
+#define _putchar_h_
+
+int _putchar(char)
+
+#endif
