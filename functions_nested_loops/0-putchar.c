@@ -1,4 +1,4 @@
-#include "_putchar.h"
+#include "putchar.h"
 #include "main.h"
 /**
  * main - Entry point
@@ -13,9 +13,9 @@ int main(void)
 	size = sizeof(str) / sizeof(int);
 	for (i = 0; i < size; i++)
 	{
-		_putchar(str[i]);
+		putchar(str[i]);
 	}
-	_putchar('\n');
+	putchar('\n');
 
 	return (0);
 }
