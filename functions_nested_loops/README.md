@@ -1,6 +1,6 @@
 # SCRIPT 0: Printing "_putchar".
 # SCRIPT 1: Printing alphabet with function. 1-main.c, 1-alphabet.c and main.h
-# SCRIPT 2: .
+# SCRIPT 2: Printing alphabet ten times with function. 2-main.c, 2-print_alphabet_x10.c and main.h.
 # SCRIPT 3: .
 # SCRIPT 4: .
 # SCRIPT 5: .
