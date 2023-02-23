@@ -1,5 +1,5 @@
 # SCRIPT 0: Printing "_putchar".
-# SCRIPT 1: Printing alphabet with function.
+# SCRIPT 1: Printing alphabet with function. 1-main.c, 1-alphabet.c and main.h
 # SCRIPT 2: .
 # SCRIPT 3: .
 # SCRIPT 4: .
