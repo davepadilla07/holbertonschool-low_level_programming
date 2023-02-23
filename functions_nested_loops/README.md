@@ -1,5 +1,5 @@
 # SCRIPT 0: Printing "_putchar".
-# SCRIPT 1: .
+# SCRIPT 1: Printing alphabet with function.
 # SCRIPT 2: .
 # SCRIPT 3: .
 # SCRIPT 4: .
